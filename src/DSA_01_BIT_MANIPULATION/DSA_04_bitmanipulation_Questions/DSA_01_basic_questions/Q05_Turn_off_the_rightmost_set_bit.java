@@ -1,6 +1,6 @@
 package DSA_01_BIT_MANIPULATION.DSA_04_bitmanipulation_Questions.DSA_01_basic_questions;
 
-public class Q5_Turn_off_the_rightmost_set_bit {
+public class Q05_Turn_off_the_rightmost_set_bit {
     public static void main(String[] args) {
 //        System.out.println(12 & (-12));
         System.out.println(clear_rightmost_bit(7));

@@ -1,6 +1,6 @@
 package DSA_01_BIT_MANIPULATION.DSA_04_bitmanipulation_Questions.DSA_01_basic_questions;
 
-public class Q4_Multiply_given_Integer_with_7_by_2 {
+public class Q04_Multiply_given_Integer_with_7_by_2 {
     // multiply given digit by 3.5
     public static void main(String[] args) {
         System.out.println(multiply_by_3_points(34));

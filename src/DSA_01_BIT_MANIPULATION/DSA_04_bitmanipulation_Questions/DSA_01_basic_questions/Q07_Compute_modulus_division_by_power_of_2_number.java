@@ -1,6 +1,6 @@
 package DSA_01_BIT_MANIPULATION.DSA_04_bitmanipulation_Questions.DSA_01_basic_questions;
 
-public class Q7_Compute_modulus_division_by_power_of_2_number {
+public class Q07_Compute_modulus_division_by_power_of_2_number {
     public static void main(String[] args) {
         System.out.println(computeModulo(34,16));
     }

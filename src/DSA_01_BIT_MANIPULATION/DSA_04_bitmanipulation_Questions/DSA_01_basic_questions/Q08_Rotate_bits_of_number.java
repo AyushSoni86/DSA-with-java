@@ -1,6 +1,6 @@
 package DSA_01_BIT_MANIPULATION.DSA_04_bitmanipulation_Questions.DSA_01_basic_questions;
 
-public class Q8_Rotate_bits_of_number {
+public class Q08_Rotate_bits_of_number {
 
     static int INT_BITS = 32;
 

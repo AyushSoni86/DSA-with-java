@@ -1,6 +1,6 @@
 package DSA_01_BIT_MANIPULATION.DSA_04_bitmanipulation_Questions.DSA_01_basic_questions;
 
-public class Q1_Find_the_element_that_appear_once {
+public class Q01_Find_the_element_that_appear_once {
 
     public static void main(String[] args) {
         int[] arr = {12,12,12,14};

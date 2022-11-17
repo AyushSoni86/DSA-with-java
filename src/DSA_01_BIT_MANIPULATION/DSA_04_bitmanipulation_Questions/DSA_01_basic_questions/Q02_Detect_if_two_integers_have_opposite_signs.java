@@ -1,6 +1,6 @@
 package DSA_01_BIT_MANIPULATION.DSA_04_bitmanipulation_Questions.DSA_01_basic_questions;
 
-public class Q2_Detect_if_two_integers_have_opposite_signs {
+public class Q02_Detect_if_two_integers_have_opposite_signs {
 
     public static void main(String[] args) {
         System.out.println((opposite(23,-223)?
